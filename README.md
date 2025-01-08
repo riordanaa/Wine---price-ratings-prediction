@@ -17,7 +17,8 @@ The dataset used in this project is not included in the repository due to licens
 │   ├── Wine Retail Dataset - Sentiment + XGboost.ipynb
 │   ├── Wine Retail Dataset - Neural Network Embeddings.ipynb
 │   ├── Wine Retail Dataset - XGBoost - main approach.ipynb
-│   └── # TODO add more notebook names
+│   └── Wine Retail Dataset - Sentiment + XGboost - Andrew Berg
+│   └── Wine Retail Dataset - Custom Embeddings + Custom CNN - Andrew Berg
 ├── requirements.txt
 ├── pyproject.toml
 └── README.md
